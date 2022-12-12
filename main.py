@@ -236,5 +236,1274 @@ print("""
                                                                                         
 
 """)
-time.sleep(0.1)
+time.sleep(10)
+print("D")
+time.sleep(0.05)
+os.system(delet)
+print("dO")
+time.sleep(0.05)
+os.system(delet)
+print("DoW")
+time.sleep(0.05)
+os.system(delet)
+print("DowN")
+time.sleep(0.05)
+os.system(delet)
+print("DownL")
+time.sleep(0.05)
+os.system(delet)
+print("Downl0")
+time.sleep(0.05)
+os.system(delet)
+print("DownloA")
+time.sleep(0.05)
+os.system(delet)
+print("DownloaD")
+time.sleep(0.05)
+os.system(delet)
+print("DownloadI")
+time.sleep(0.05)
+os.system(delet)
+print("DownloadiN")
+time.sleep(0.05)
+os.system(delet)
+print("DownloadinG")
+time.sleep(0.05)
+os.system(delet)
+print("Downloading")
+time.sleep(0.05)
+os.system(delet)
+print("DOWNLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DOWNLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DOWNLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DOWNLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DoWNLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DowNLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DownLOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DownlOADING")
+time.sleep(0.05)
+os.system(delet)
+print("DownloADING")
+time.sleep(0.05)
+os.system(delet)
+print("DownloaDING")
+time.sleep(0.05)
+os.system(delet)
+print("DownloadING")
+time.sleep(0.05)
+os.system(delet)
+print("DownloadiNG")
+time.sleep(0.05)
+os.system(delet)
+print("DownloadinG")
+time.sleep(0.05)
+os.system(delet)
+print("Downloading")
+time.sleep(0.05)
+os.system(delet)
+print(" ownloading")
+time.sleep(0.05)
+os.system(delet)
+print("  wnloading")
+time.sleep(0.05)
+os.system(delet)
+print("   nloading")
+time.sleep(0.05)
+os.system(delet)
+print("    loading")
+time.sleep(0.05)
+os.system(delet)
+print("     oading")
+time.sleep(0.05)
+os.system(delet)
+print("      ading")
+time.sleep(0.05)
+os.system(delet)
+print("       ding")
+time.sleep(0.05)
+os.system(delet)
+print("        ing")
+time.sleep(0.05)
+os.system(delet)
+print("         ng")
+time.sleep(0.05)
+os.system(delet)
+print("          g")
+time.sleep(0.05)
+os.system(delet)
+print("           ")
+time.sleep(0.05)
+os.system(delet)
+print("Download Complete")
+time.sleep(5)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading.")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading..")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading...")
+time.sleep(0.05)
+os.system(delet)
+print("Loading")
+time.sleep(0.05)
+os.system(delet)
+
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                               
+                                     ██╗
+                                     ╚═╝
+                                
+                                
+                                                                               
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗
+                                ██╔══██╗
+                              
+                                                                                      
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗
+                                ██╔══██╗
+                                ██║░░╚═╝
+                                ██║
+                                ╚█████╔╝
+                                ░╚════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██
+                                ██╔══██╗██╔
+                                ██║░░╚═╝███
+                                ██║░░██╗██╔
+                                ╚█████╔╝██║
+                                ░╚════╝░╚═╝                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗
+                                ██╔══██╗██╔══██╗
+                                ██║░░╚═╝██████╔╝
+                                ██║░░██╗██╔═══╝░
+                                ╚█████╔╝██║
+                                ░╚════╝░╚═╝░                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                       
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                                                    
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                                                 
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                                                     
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                                                
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                                                 
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                                            
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                              
+                              
+                              
+                            
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                            
+                            
+                            
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                                                 
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                           
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                               
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                              
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                              
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                                                                
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                      ██    ██    ██                                    
+                                    ██      ██  ██                                      
+                                    ██    ██    ██                                      
+                                      ██  ██      ██                                    
+                                      ██    ██    ██                                    
+                                                                                        
+                                  ████████████████████                                  
+                                  ██                ██████                              
+                                  ██                ██  ██                              
+                                  ██                ██  ██                              
+                                  ██                ██████                              
+                                    ██            ██                                    
+                                ████████████████████████                                
+                                ██                    ██                                
+                                  ████████████████████                                  
+                                                                                        
+                               
+                                ░█████╗░██████╗░░██████╗
+                                ██╔══██╗██╔══██╗██╔════╝
+                                ██║░░╚═╝██████╔╝╚█████╗░
+                                ██║░░██╗██╔═══╝░░╚═══██╗
+                                ╚█████╔╝██║░░░░░██████╔╝
+                                ░╚════╝░╚═╝░░░░░╚═════╝░                                                         
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+
+""")
+time.sleep(0.5)
+os.system(delet)
+
+print("""
+     
+░░██╗
+░██╔╝
+██╔╝░
+╚██╗░
+░╚██╗
+░░╚═╝                                                                                                                                                                                                      
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+░░██╗
+░██╔╝
+██╔╝░
+╚██╗░
+░╚██╗
+░░╚═╝                                                                                                                                                                                                      
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+░░██╗
+░██╔╝
+██╔╝░
+╚██╗░
+░╚██╗
+░░╚═╝                                                                                                                                                                                                      
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+
+░░██╗░░░░██╗
+░██╔╝░░░██╔╝
+██╔╝░░░██╔╝░
+╚██╗░░██╔╝░░
+░╚██╗██╔╝░░░
+░░╚═╝╚═╝░░░░                                                                                                                                                                                                     
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+
+░░██╗░░░░██╗
+░██╔╝░░░██╔╝
+██╔╝░░░██╔╝░
+╚██╗░░██╔╝░░
+░╚██╗██╔╝░░░
+░░╚═╝╚═╝░░░░                                                                                                                                                                                                     
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+
+░░██╗░░░░██╗
+░██╔╝░░░██╔╝
+██╔╝░░░██╔╝░
+╚██╗░░██╔╝░░
+░╚██╗██╔╝░░░
+░░╚═╝╚═╝░░░░                                                                                                                                                                                                     
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+
+
+░░██╗░░░░██╗██╗░░
+░██╔╝░░░██╔╝╚██╗░
+██╔╝░░░██╔╝░░╚██╗
+╚██╗░░██╔╝░░░██╔╝
+░╚██╗██╔╝░░░██╔╝░
+░░╚═╝╚═╝░░░░╚═╝░░                                                                                                                                                                                                    
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+
+
+░░██╗░░░░██╗██╗░░
+░██╔╝░░░██╔╝╚██╗░
+██╔╝░░░██╔╝░░╚██╗
+╚██╗░░██╔╝░░░██╔╝
+░╚██╗██╔╝░░░██╔╝░
+░░╚═╝╚═╝░░░░╚═╝░░                                                                                                                                                                                                    
+""")
+time.sleep(0.5)
+os.system(delet)
+print("""
+     
+
+
+░░██╗░░░░██╗██╗░░
+░██╔╝░░░██╔╝╚██╗░
+██╔╝░░░██╔╝░░╚██╗
+╚██╗░░██╔╝░░░██╔╝
+░╚██╗██╔╝░░░██╔╝░
+░░╚═╝╚═╝░░░░╚═╝░░                                                                                                                                                                                                    
+""")
+time.sleep(0.5)
+os.system(delet)
+print("LOL has finished...")
+time.sleep(5)
+os.system(delet)
+print("Have a good day... bye")
+time.sleep(2)
 os.system(delet)
