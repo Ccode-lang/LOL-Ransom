@@ -6,7 +6,7 @@
 *         pip3 install psutil
 *         pip3 install gputil
 *         pip3 install tabulate
-*         python3 main.py
+*         python3 LMAO.py
 
 # this is a ransome ware that is not tested, i dont realy even know if this works
 I AM NOT RESPONSIBLE FOR DAMAGE
