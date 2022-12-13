@@ -32,10 +32,9 @@ time.sleep(5)
 # Password to run the script. DO NOT USE THIS AS THE DECRIPT PASSWORD
 password = "LOL"
 
-
-userInput = input("LOL")
-time.sleep(2)
 call(["python", "LOL.py"])
+userInput = input("LOL")
+time.sleep(1)
 
 # Checking the password that the user put in, if its right the user will get a message saying the files are decrypted 
 # and if its wrong a message saying that the password is wrong
