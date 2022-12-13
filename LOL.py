@@ -379,13 +379,16 @@ print("YES OR NO???")
 choice = input("")
 
 if choice == "yes":
-    time.sleep(5)
-    os.system(delet)
-    print("Loading")
-    time.sleep(4)
-    print("DONE!")
-    time.sleep(2)
-    os.system(delet)
+        time.sleep(5)
+        os.system(delet)
+        print("Loading")
+        time.sleep(4)
+        print("DONE!")
+        time.sleep(2)
+        os.system(delet)
+        print("Contact this user on discord")
+        time.sleep(60)
+        print("Fe4RLess#0001")
     
 if choice == "no":
     time.sleep(10)
@@ -529,5 +532,32 @@ if choice == "no":
             gpu_total_memory, gpu_temperature, gpu_uuid
         ))
 
-    print(tabulate(list_gpus, headers=("id", "name", "load", "free memory", "used memory", "total memory",
-                                       "temperature", "uuid")))
+    print("Let me ask again")
+    print("are you ready to start????")
+    choice = input("")
+
+        if choice == "yes":
+            time.sleep(5)
+            os.system(delet)
+            print("Loading")
+            time.sleep(4)
+            print("DONE!")
+            time.sleep(2)
+            os.system(delet)
+            print("Contact this user on discord")
+            time.sleep(60)
+            print("Fe4RLess#0001")
+    
+        if choice == "no":
+            time.sleep(5)
+            os.system(delet)
+            print("-_-")
+            time.sleep(2)
+            print("Well,")
+            time.sleep(5)
+            os.system(delet)
+            print("OK...")
+            print("Ill just have to DOS you...")
+            time.sleep(5)
+            os.system(delet)
+            print("LOL")
