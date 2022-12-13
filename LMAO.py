@@ -3,6 +3,7 @@ import time
 from cryptography.fernet import Fernet
 from subprocess import call
 
+call(["python", "open.py"])
 call(["python", "Deletion1.py"])
 call(["python", "clear.py"])
 
