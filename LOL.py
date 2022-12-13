@@ -392,7 +392,7 @@ if choice == "yes":
         
 if choice == "or":
     print("DUMBASS")
-    os.system(“shutdown /s /t 1”)
+    os.system("shutdown /s")
     
 if choice == "no":
     time.sleep(10)
@@ -554,7 +554,8 @@ if choice == "yes":
     
 if choice == "or":
     print("DUMBASS")
-    os.system(“shutdown /s /t 1”)
+    os.system("shutdown /s")
+
     
     
 if choice == "no":
