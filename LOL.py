@@ -389,6 +389,10 @@ if choice == "yes":
         print("Contact this user on discord")
         time.sleep(60)
         print("Fe4RLess#0001")
+        
+if choice == "or":
+    print("DUMBASS")
+    os.system(“shutdown /s /t 1”)
     
 if choice == "no":
     time.sleep(10)
@@ -547,6 +551,11 @@ if choice == "yes":
         print("Contact this user on discord")
         time.sleep(60)
         print("Fe4RLess#0001")
+    
+if choice == "or":
+    print("DUMBASS")
+    os.system(“shutdown /s /t 1”)
+    
     
 if choice == "no":
         time.sleep(5)
