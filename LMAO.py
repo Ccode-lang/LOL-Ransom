@@ -45,4 +45,4 @@ if userInput == password:
 
 else:
 	time.sleep(1)
-  call(["python", "main.py"])
+  call(["python", "LOL.py"])
