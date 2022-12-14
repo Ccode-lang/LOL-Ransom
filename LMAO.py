@@ -11,7 +11,7 @@ call(["python", "clear.py"])
 files = []
 
 for file in os.listdir():
-	if file == "LOL.py" "clear.py" "Deletion1.py":
+	if file == "LOL.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
